@@ -1,0 +1,53 @@
+The Online Version of this M50 Factory Reset howto from karma lab is here: https://www.karma-lab.com/forum/showthread.php?t=15084
+
+
+
+Here are the instructions:
+     
+KM50 & Factory M50 PCG Project
+After spending some time with the M3 Preload Performances for KM50, I've been inspired to embark on a journey to create my own KARMA performances using the factory M50 Preload PCG data.
+
+For those of you who may be interested in doing the same, I've created and attached a KDF file to this post that contains the M50 factory PCG preload data in the proper banks.
+
+
+Instructions for use:
+
+STEP 1: Download and unzip the attached KDF file.
+
+M50-Factory Preload.kdf.zip
+
+STEP 2: Restore factory PCG data to your M50.
+To use this KDF file with the factory M50 PCG data, first you will need to load up/restore the factory preload data to your M50.
+
+IMPORTANT: Restoring the factory preload data will erase all internal programs & combis on your M50! Be sure to back up any PCG data that's currently in your M50 that you want to be able to restore later!!!
+
+To restore the factory data on your M50:
+1. Go to the GLOBAL>P0 Basic Setup page and from the menu choose "Load Preload/Demo Data".
+2. From the "Kind:" pop-up menu, choose "All Preload PCG", then press the "OK" button.
+
+STEP 3: Open KDF file in KM50.
+After restoring the factory PCG data on your M50, open the attached KDF file "M50-Factory Preload.kdf" in KM50.
+
+The purpose/use of the attached file is to provide a starting point within KM50 to create your own KARMA-fied performances from scratch using the factory M50 PCG data. It contains all the necessary "plumbing" for you to get started creating your own performances using the factory PCG data, including:
+
+[10] Performance Banks with M50 factory PCG data (Combi I-A > I-D, Program I-A > I-E & GM)
+[18] GE Banks (GE U-A > U-R)
+[2] Template Banks (I-A & I-B)
+
+For those curious to know how this file was created, or those interested in creating their own version of this file, you can review the process documented in the KARMA KM50 Tutorial file called "Importing your own PCG Data", which can be found here:
+
+http://www.karma-lab.com/karmasoft/m...g_PCG_Data.pdf
+
+STEP 4: Create KARMA performances.
+At this point, you're ready to start selecting combis & programs and creating KARMA-fied performances by assigning GEs to them (or creating your own GEs if you're feeling REALLY adventurous!!)
+
+By design, the KARMA performance data for all combi and program banks in this file is in a "default/generic" configuration as a result of the import of the factory banks. The goal of this "project", after all, is for the user to create their own performance data associated with this factory PCG data.
+
+Note that Performance Bank 3 (Combi I-D) and Performance Bank 8 locations 96-127 (Program I-E) are "initialized" just as they are on the factory M50 PCG settings. You can use these locations to create entirely new Combis/Programs/Performances from "scratch"...
+
+
+It should be interesting, challenging, and fun for fellow KM50 users to share their KM50 performances based on the factory PCGs. I'm looking forward to seeing what other users come up with and I intend to post my KM50 Performances along the way on this journey.
+
+I hope you'll join me!
+
+Cheers,

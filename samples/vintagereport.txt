@@ -1,0 +1,146 @@
+Vintage/Analog I Project
+****************************************
+Author of this project: Christophe Simonis (Chris)
+e-mail: simonis.christophe@caramail.com
+****************************************
+First of all, I'd like to thank all the contributors of this vintage and analog-like Pcg's.
+Simply fill your Triton's E bank with those 128 sounds.
+This project is available for free use.
+Feedback from the use of elements included into this project is welcome.
+
+Contents of this package:
+- Vintage.pcg with 128 E bank sounds
+- Vintage.sng with a demo of these sounds (load first "Vintage.pcg") called "Vintage Groove"
+- 70s Love with a MIDI sequence provided by Vesa using sound E005: 70's Love
+
+Content of Vintage.pcg:
+
+Program Bank E
+000: Halley Comet CS 	SE              	120 bpm	Christophe Simonis	
+001: Vintage Str  CS 	MotionSynth     	120 bpm	Christophe Simonis	While pressing the right side of the ribbon press some notes and then drag your finger to the center of the ribbon
+002: Analog Clav  CS 	FastSynth       	120 bpm	Christophe Simonis	Hold the note and hear the backing sound
+003: Sonar B3  CS    	SE              	120 bpm	Christophe Simonis	Submarine sonar
+004: ~^New Analog^~  	FastSynth       	138 bpm	Pecca	
+005: 70's Love       		Keyboard        	120 bpm	Vesa	
+006: Analog Padder CS	SlowSynth       	120 bpm	Christophe Simonis	Hold the note and hear the backwards effect
+007: Deep Wiz Organ  	Organ           	156 bpm	Vesa	
+008: More Gun E.P.   	Keyboard        	240 bpm	Vesa	
+009: Twilight        		MotionSynth     	120 bpm	Christophe Simonis	Based on the samples of Pecca (Peccasso)
+010: Perfect Marcato 	SlowSynth       	120 bpm	Christophe Simonis	Based on the samples of Pecca (Peccasso)
+011: Gated Aahhh Pad 	MotionSynth     	140 bpm	Christophe Simonis	Based on the samples of Pecca (Peccasso)
+012: Looney Moog     	Hit/Arpg        	120 bpm	Christophe Simonis	Based on the samples of Pecca (Peccasso)
+013: Trempad         	SlowSynth       	 50 bpm	Christophe Simonis	Based on the samples of Pecca (Peccasso)
+014: Virus Pad  CS   	MotionSynth     	120 bpm	Christophe Simonis	An emulation of the Access Virus
+015: Virtual Zone  CS	MotionSynth     	132 bpm	Christophe Simonis	
+016: MS2000   CS     	SlowSynth       	120 bpm	Christophe Simonis	An emulation of Korg Ms2000
+017: SuperNova   CS  	FastSynth       	120 bpm	Christophe Simonis	An emulation of Novation Supernova
+018: FX Circuits  CS 	SE              	 97 bpm	Christophe Simonis	
+019: Atomic Pad  CS  	SlowSynth       	120 bpm	Christophe Simonis	"80's sound (see ""Atomic"" by Blondie)"
+020: Bette D Lead CS 	LeadSynth       	120 bpm	Christophe Simonis	80's sound
+021: Drone Bass  CS  	Bass            	124 bpm	Christophe Simonis	Use Ribbon, JS-Y, knobs... like an analog synth
+022: Ovdr Bass  CS   	Bass            	140 bpm	Christophe Simonis	
+023: Nord Palawan  CS	MotionSynth     	120 bpm	Christophe Simonis	I tried to put a Clavia NordLead-like Fx in this sound
+024: Tears in Bottle 	Vocal/Airy      	120 bpm	Vesa		"Sound used in the Tears For Fears ""Shout"" song"
+025: XP10 Bass   CS  	Bass            	120 bpm	Christophe Simonis	A typical Roland XP10 synth bass
+026: Oberheim Mt  CS 	MotionSynth     	120 bpm	Christophe Simonis	Oberheim emulation: control Enhancer depth with JS-Y
+027: Adam & Yves  CS 	FastSynth       	120 bpm	Christophe Simonis	"From the ""Adam & Yves"" song (Zazie: french singer)"
+028: Zizanie Pad  CS 	SlowSynth       	120 bpm	Christophe Simonis	"From the ""La zizanie"" song (Zazie: french singer)"
+029: Drive FX  CS    	SE              	120 bpm	Christophe Simonis	
+030: Talking Saw  CS 	FastSynth       	115 bpm	Christophe Simonis	"Sound used by Depeche Mode (Album: ""Exciter"")"
+031: LFO Wind   CS   	SE              	120 bpm	Christophe Simonis	
+032: Vocoding Lead CS	LeadSynth       	120 bpm	Christophe Simonis	"Sound used by Depeche Mode (Album: ""Exciter"")"
+033: Monster Lead    	LeadSynth       	120 bpm	?		A killer sound initially available on Korg Trinity
+034: Z1 Anasweep  CS 	MotionSynth     	120 bpm	Christophe Simonis	Sweeps like on the Korg Z1
+035: Z1 Arp Line   CS	Hit/Arpg        	120 bpm	Christophe Simonis	Arp line like on the Korg Z1
+036: Loosing Bass  CS	Bass            	 78 bpm	Christophe Simonis	Sound used by Depeche Mode
+037: Loosing Str  CS 	Strings         	120 bpm	Christophe Simonis	Sound used by Depeche Mode
+038: Only Ring  CS   	FastSynth       	120 bpm	Christophe Simonis	Sound used by Depeche Mode
+039: THX Strings  CS 	Strings         	120 bpm	Christophe Simonis	An emulation of the Great THX movie intro
+040: One Pulse   CS  	FastSynth       	120 bpm	Christophe Simonis	"Sound used by A-Ha in the 80's: ""You are the one"" song"
+041: OB Classical ST 	SlowSynth       	120 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+042: Slow MG Synth   	MotionSynth     	 90 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+043: Droner>SlowClimb	SE              	 73 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+044: OB Strings      		SlowSynth       	130 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+045: 2600 Strings    	SlowSynth       	120 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+046: Fond Memories   	SlowSynth       	120 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+047: Pulse Down Pad  	FastSynth       	180 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+048: sine...mgmlegato	Bass            	142 bpm	Pall	
+049: jp...intha.house	Bass            	138 bpm	Pall	
+050: tb..intha.house 	Bass            	136 bpm	Pall	
+051: dwgs..organ.euro	Bass            	130 bpm	Pall	
+052: tb...funk.bs    		Bass            	136 bpm	Pall	
+053: Vintage EP200   	Keyboard        	120 bpm	Christophe Simonis	
+054: Butterfly Sweep 	MotionSynth     	 90 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+055: Multi-Modular   	MotionSynth     	118 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+056: Panning Sweep CS	MotionSynth     	120 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+057: Nord Lead   CS  	LeadSynth       	110 bpm	Christophe Simonis	One of the most killer Clavia NordLead 3 lead sound
+058: Airy Shout   CS 	Vocal/Airy      	120 bpm	Christophe Simonis	"Another emulation of the sound used by Tears For Fears in ""Shout"" song"
+059: Mars computes CS	SE              	120 bpm	Christophe Simonis	
+060: Space Bass  CS  	Bass            	120 bpm	Christophe Simonis	
+061: Anaspeed Bass CS	Bass            	189 bpm	Christophe Simonis	A typical bass line very often used in the 80's
+062: AthleticStar MM 	SlowSynth       	140 bpm	Mastermalleus	
+063: Speedball   MM  	Hit/Arpg        	126 bpm	Mastermalleus	
+064: Nangijala    MM 	SlowSynth       	120 bpm	Mastermalleus
+065: Nangilima   MM  	MotionSynth     	120 bpm	Mastermalleus
+066: GoldenOysterMM  	Brass           	120 bpm	Mastermalleus
+067: ReVived    MM   	SlowSynth       	126 bpm	Mastermalleus
+068: ChildrenOfHopeMM	SlowSynth       	116 bpm	Mastermalleus
+069: The Rooster MM  	MotionSynth     	120 bpm	Mastermalleus
+070: DeOrganFing MM  	Organ           	130 bpm	Mastermalleus
+071: The Sin     MM  	FastSynth       	120 bpm	Mastermalleus
+072: Fasttrack   MM  	Organ           	120 bpm	Mastermalleus
+073: Fasttrack2 MM   	Organ           	120 bpm	Mastermalleus
+074: Hardtrack  MM   	FastSynth       	120 bpm	Mastermalleus
+075: TrueAnalog MM   	SlowSynth       	120 bpm	Mastermalleus
+076: Analogical   MM 	FastSynth       	120 bpm	Mastermalleus
+077: Hitchhiker   MM 	FastSynth       	120 bpm	Mastermalleus
+078: DnotSmokeDiss MM	Brass           	120 bpm	Mastermalleus
+079: Warp Easy #2  MM	SlowSynth       	120 bpm	Mastermalleus
+080: Growing Alg  CS 	SlowSynth       	120 bpm	Christophe Simonis	
+081: Airy Analog  CS 	MotionSynth     	120 bpm	Christophe Simonis	
+082: Skyline  CS     		MotionSynth     	120 bpm	Christophe Simonis	
+083: Galaxy Noise CS 	SE              	120 bpm	Christophe Simonis	
+084: Balanced Clav CS	Keyboard        	120 bpm	Christophe Simonis	
+085: People Bass CS  	Bass            	120 bpm	Christophe Simonis	"Sound used by Depeche Mode in ""People are People"""
+086: LFO Resosw CS   	MotionSynth     	120 bpm	Christophe Simonis	
+087: Juno EP         		Keyboard        	150 bpm	tri_tonton	
+088: ARP Revival     	MotionSynth     	 80 bpm	tri_tonton	
+089: MOOGY Bass      	Bass            	132 bpm	tri_tonton	
+090: JP Lead         		LeadSynth       	120 bpm	tri_tonton	
+091: D50 Organ       	Organ           	144 bpm	tri_tonton	
+092: CRUMAR Zone     	Keyboard        	108 bpm	tri_tonton	
+093: JUPITER String  	Strings         	120 bpm	tri_tonton	
+094: Space Makina    	Bass            	142 bpm	tri_tonton	
+095: Slowly JP       		SlowSynth       	240 bpm	tri_tonton	
+096: 700 KS          		SlowSynth       	136 bpm	tri_tonton
+097: Stab V          		FastSynth       	138 bpm	tri_tonton
+098: Squar JP        		LeadSynth       	112 bpm	tri_tonton
+099: Antic Pulse     		MotionSynth     	148 bpm	tri_tonton
+100: FisaFisa        		Organ           	120 bpm	tri_tonton
+101: Poly Organ      	Organ           	120 bpm	tri_tonton
+102: Pad jx          		SlowSynth       	140 bpm	tri_tonton
+103: Big OB Mono     	FastSynth       	 85 bpm	tri_tonton
+104: Dream Synthy2   	SlowSynth       	132 bpm	tri_tonton
+105: PortaPWMLead    	LeadSynth       	131 bpm	tri_tonton
+106: Harpy fm        	Guitar/Plucked  	137 bpm	tri_tonton
+107: Lead Agressor   	LeadSynth       	120 bpm	tri_tonton
+108: DX FM1          		Keyboard        	130 bpm	tri_tonton
+109: hgv2hit         		Hit/Arpg        	141 bpm	tri_tonton
+110: Bassly FMR      	Bass            	120 bpm	tri_tonton
+111: Children BOB    	Keyboard        	 70 bpm	tri_tonton
+112: JupiString      		Strings         	110 bpm	tri_tonton	
+113: Emulator        		FastSynth       	126 bpm	tri_tonton	
+114: Harpsi juno     	Guitar/Plucked  	100 bpm	tri_tonton	
+115: RESPECT !       	LeadSynth       	134 bpm	tri_tonton	
+116: SpaceEP Zone    	Keyboard        	120 bpm	tri_tonton	
+117: harmojust       	FastSynth       	134 bpm	tri_tonton	
+118: CP Magic        		Keyboard        	120 bpm	tri_tonton	
+119: VOX Organ       	Organ           	114 bpm	tri_tonton	
+120: EP Celeste      		Keyboard        	 86 bpm	tri_tonton	
+121: OB Pluksaw      	FastSynth       	102 bpm	tri_tonton	
+122: OB X  CS        		FastSynth       	120 bpm	Christophe Simonis	Emulation of the Oberheim OB X(a)
+123: Bowie Ovdr  CS  	Guitar/Plucked  	120 bpm	Christophe Simonis	Analog sound used by David Bowie
+124: Bowie Pad  CS   	FastSynth       	120 bpm	Christophe Simonis	Analog sound used by David Bowie
+125: Bowie Vox  CS   	Organ           	120 bpm	Christophe Simonis	Analog sound used by David Bowie
+126: Modulator MS20  	SE              	150 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
+127: Comp MG Bass    	Bass            	133 bpm	Christophe Simonis	"Emulation from EXB-PCM05 ""Vintage Archives"""
